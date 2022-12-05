@@ -42,7 +42,7 @@ console.log(12 + 20);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-var x = 12;
+let x = 12;
 console.log(x);
 
 /* ESERCIZIO 5
@@ -68,8 +68,8 @@ console.log(4 - x);
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-var name1 = "john";
-var name2 = "John";
+let name1 = "john";
+let name2 = "John";
 console.log(name1 !== name2);
 console.log(name1 === name2);
 console.log(name1.toLowerCase !== name2.toLowerCase);
