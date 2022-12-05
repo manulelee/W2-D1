@@ -28,7 +28,7 @@ nan - Indica un valore che non è un numero (?)
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-var name = "Emanuele";
+const name = "Emanuele";
 console.log(name);
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -51,7 +51,7 @@ console.log(x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const = "Syrbe";
+name = "Syrbe";
 console.log(name);
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
