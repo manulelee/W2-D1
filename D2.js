@@ -29,7 +29,7 @@ nan - Indica un valore che non è un numero (?)
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 var name = "Emanuele";
-console.log(name);
+document.write(name);
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
